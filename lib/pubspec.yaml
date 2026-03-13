@@ -1,0 +1,9 @@
+name: flashcard_quiz_app
+description: Flashcard Quiz App for CodeAlpha Internship
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
